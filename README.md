@@ -2,7 +2,7 @@
 
 # Hi, I'm Siripoom Arthornsirirat 👋
 
-### Full-Stack Developer · Backend & API Specialist
+### Full-Stack Developer · Backend & API 
 
 Based in Bangkok, Thailand 🇹🇭  
 Currently working at **Go Digit Co., Ltd.**
@@ -114,15 +114,15 @@ Ratchaburi Technical College · 2021–2023 · GPA 3.81
 
 ---
 
-## GitHub Activity
+## GitHub Overview
 
-<div align="center">
+| Project | Description | Main Technology |
+| --- | --- | --- |
+| [i-amp-yoqa-system](https://github.com/Siripoom/i-amp-yoqa-system) | Web-based system with a publicly available live application | JavaScript |
+| [sks_web](https://github.com/Siripoom/sks_web) | Smart Kids Shuttle web application | JavaScript |
+| [sks_app](https://github.com/Siripoom/sks_app) | Smart Kids Shuttle mobile application | Dart / Flutter |
 
-![Siripoom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siripoom&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siripoom&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+➡️ [Explore all of my repositories and contribution activity](https://github.com/Siripoom?tab=repositories)
 
 ---
 
