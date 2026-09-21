@@ -2,7 +2,7 @@
 
 # Hi, I'm Siripoom Arthornsirirat 👋
 
-### Full-Stack Developer · Backend & API
+### Full-Stack Developer · Backend & API Specialist
 
 Based in Bangkok, Thailand 🇹🇭  
 Currently working at **Go Digit Co., Ltd.**
